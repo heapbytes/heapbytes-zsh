@@ -1,9 +1,14 @@
 # Zsh promt theme
 
-- The prompt takes tun0 ip address if you are connected to a VPN, else wlan0 ip address is printed.
-
 > This is an update version of my previous edited zsh theme.
 <br />
+
+## Features 
+- Prints the current working directory
+- Prints the tun0 IP if connected to a VPN
+- Prints the wlan0 IP if you aren't connected (please change the module name in `.zsh-theme`
+- Git info
+
 > You can call this an fork on rkj theme.
 
 ## Showcase
