@@ -9,7 +9,7 @@
 - Prints the wlan0 IP if you aren't connected to any VPN. (change the module name in `.zsh-theme` according to your wifi module)
 - Git info
 
-> You can call this an fork on rkj theme.
+> You can call this a fork/update/inspiration of rkj theme.
 
 ## Showcase
 
